@@ -49,4 +49,4 @@ To view and interact with these dashboards:
 
 ## Contact
 
-For any questions or feedback, please contact Tenzin Yeshay at tenzin@.
+For any questions or feedback, please contact Tenzin Yeshay at tenzin.yeshay89@gmail.com
