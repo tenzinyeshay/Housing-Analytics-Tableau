@@ -38,7 +38,7 @@ To view and interact with these dashboards:
 
 1.  **Clone this repository:**
     ```bash
-  git clone [https://github.com/tenzinyeshay/Housing-Analytics-Tableau](https://github.com/tenzin-yeshay/Housing-Analytics-Tableau.git)
+  git clone https://github.com/tenzinyeshay/Housing-Analytics-Tableau.git
     ```
 2.  **Open the Tableau Workbook:** Locate the 'NY Housing.twb' file in the cloned repository and open it with Tableau Desktop.
 3.  **Explore the Dashboards:** Navigate through the different tabs to explore the "Housing Price Analytics," "Housing Room Analytics," and "Housing Size Analytics" dashboards.
